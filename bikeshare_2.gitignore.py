@@ -1,3 +1,8 @@
+##Similar to the process you used in  making the documentation changes, make 2 or more changes in refactoring your code.
+
+##No git command needed (edit the code in your python file)
+
+
 import time
 import pandas as pd
 import numpy as np
