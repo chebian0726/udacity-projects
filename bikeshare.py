@@ -1,6 +1,6 @@
 ##Similar to the process you used in  making the documentation changes, make 2 or more changes in refactoring your code.
 ## Che Bian
-## 
+## For Udacity Data Science With Python Program
 
 import time
 import pandas as pd
