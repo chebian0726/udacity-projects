@@ -1,20 +1,12 @@
-<<<<<<< HEAD
-<<<<<<< HEAD:bikeshare.py
+
 # Udacity Python Project
-||||||| merged common ancestors
-##Similar to the process you used in  making the documentation changes, make 2 or more changes in refactoring your code.
+
 ## Che Bian
-## 
-=======
-##Similar to the process you used in  making the documentation changes, make 2 or more changes in refactoring your code.
-## Che Bian
-## For Udacity Data Science With Python Program
->>>>>>> refactoring
+
 
 # This is written with Python.
 
 
->>>>>>> refactoring:bikeshare.py
 import time
 import pandas as pd
 import numpy as np
