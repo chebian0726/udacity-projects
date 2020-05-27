@@ -1,7 +1,10 @@
+<<<<<<< HEAD:bikeshare.py
 # Udacity Python Project
 
 # This is written with Python.
 
+
+>>>>>>> refactoring:bikeshare.py
 import time
 import pandas as pd
 import numpy as np
