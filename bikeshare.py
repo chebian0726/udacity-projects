@@ -1,3 +1,7 @@
+# Udacity Python Project
+
+# This is written with Python.
+
 import time
 import pandas as pd
 import numpy as np
